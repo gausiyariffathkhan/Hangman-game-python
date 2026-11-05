@@ -47,7 +47,8 @@ python hangman.py
 The Hangman game window will open on your screen.
 
 ## 🖼️ Game Screenshots
-Add your game screenshots here to show the graphical interface.
+
+![Hangman Game Screenshot](hangman-game.png)
 
 ## 🎯 Objective
 The objective is to guess the hidden word by selecting letters before running out of attempts. Each incorrect guess brings the stickman closer to being hanged.
