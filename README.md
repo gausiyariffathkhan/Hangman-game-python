@@ -23,7 +23,8 @@ A fun, cartoon-style Hangman word-guessing game developed using **Python and Tki
 Hangman-game-python/
 │
 ├── hangman.py
-└── README.md
+├── README.md
+└── hangman-game.png
 ```
 
 ## ⚙️ Installation and Setup
